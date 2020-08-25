@@ -1,3 +1,3 @@
 # MyResume
 
-https://saisuresh1999.github.io/MyResume/
+https://saisuresh1999.github.io/ModernResume/
